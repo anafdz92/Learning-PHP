@@ -13,9 +13,9 @@ $indices = (array_keys($tabla));
 ?>
 
 <table>
-    <?php require_once 'ejercicio5/encabezados.php' ?>
-    <?php require_once 'ejercicio5/primerafila.php' ?>
-    <?php require_once 'ejercicio5/segunda.php' ?>
-    <?php require_once 'ejercicio5/tercera.php' ?>
+    <?php require_once './encabezados.php' ?>
+    <?php require_once './primerafila.php' ?>
+    <?php require_once './segunda.php' ?>
+    <?php require_once './tercera.php' ?>
 
 </table>
